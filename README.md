@@ -37,8 +37,7 @@ With over 7 years of Web Frontend Development experience, I excel in **Next.js, 
 
 ## 🏫 Education & Certificates
 
-- **BSc in Computer Engineering**, METU, expected 2025  
-- [Add any relevant certifications or courses here]
+- **BSc in Computer Engineering**, METU 
 
 ---
 
