@@ -1,36 +1,34 @@
 <div align="center">
   
-  # 👋 Merhaba! Ben Mustafa Gönen.
+# 👋 Hi there! I’m **Mustafa Gönen**
 
-  ### 🚀 Modern Web Çözümleri Geliştiricisi
+### 🚀 Modern Web Solutions Developer
 
-  <p align="center">
-    <a href="[LİNKEDİN ADRESİNİZ]" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="mailto:[E-POSTA ADRESİNİZ]">
-      <img src="https://img.shields.io/badge/E_Posta-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-    </a>
-    <a href="https://mustafagonen.netlify.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio">
-    </a>
-  </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://mustafagonen.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio">
+  </a>
+</p>
 
 </div>
 
 ---
 
-## 👨‍💻 Hakkımda
+## 👨‍💻 About Me
 
-**[Mustafa Gönen - Açıklama]**
-
-> [ÖRNEK: React ve Node.js ağırlıklı çalışan, Front-end'de kullanıcı deneyimini, Back-end'de ise temiz mimariyi önemseyen bir yazılım geliştiricisiyim. Üretkenliği artırmak için sürekli yeni araçlar ve yöntemler keşfetmeyi seviyorum. En büyük motivasyonum, sıfırdan başlayan fikirleri somut, çalışan çözümlere dönüştürmektir.]
+I’m **Mustafa Gönen**, a developer passionate about building *modern web solutions*. I specialize in creating user-centric front-end experiences with React, while architecting clean, scalable back-end systems with Node.js. I love turning ideas into real, working products, and I'm always exploring new tools and methodologies to boost productivity.
 
 ---
 
-## 🛠️ Yeteneklerim ve Teknoloji Yığım (Tech Stack)
+## 🛠️ My Tech Stack
 
-### 🌐 Temel Beceriler
+### 🌐 Core Skills
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -40,7 +38,7 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-### 💻 Ekipman & Araçlar
+### 💻 Tools & Workflow
 
 <p>
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
@@ -52,49 +50,46 @@
 
 ---
 
-## ✨ Öne Çıkan Projelerim
+## ✨ Featured Projects
 
-**[Projelerinizi bu kısma ekleyin. Bu, profilinize girenlerin ilk gördüğü yer olmalıdır.]**
+Here are a few of my favorite projects, which showcase different aspects of my skills:
 
-### 1. [PROJE ADI 1] - [Örn: Tam Kapsamlı E-Ticaret Uygulaması]
+### 1. **[Project Name 1]** – Full-Stack E-Commerce App  
+- **Description:** A full-feature e-commerce platform allowing users to browse products, add to cart, and pay. Includes admin dashboard to manage inventory, orders, and users.  
+- **Technologies:** React, Redux, Node.js, Express, MongoDB, Stripe  
+- **Live Demo:** [Link to the live demo]  
+- **Highlights:** Real-time cart updates, secure payments integration, responsive UI
 
-* **Açıklama:** [Portfolyonuzdaki Proje 1'in amacı ve en önemli 3 özelliğini yazın.]
-* **Kullanılan Teknolojiler:** [Teknolojileri virgülle ayırarak yazın. Örn: React, Firebase Auth, Redux Toolkit]
-* **Canlı Demo:** [Proje Linki]
+### 2. **[Project Name 2]** – REST API Blog Platform  
+- **Description:** A RESTful blog API with user authentication, CRUD operations, and role-based permissions.  
+- **Technologies:** Node.js, Express, MongoDB, JWT  
+- **Live Demo / Postman Collection:** [Link]  
+- **Highlights:** Clean architecture, proper error handling, scalable design
 
-### 2. [PROJE ADI 2] - [Örn: REST API Destekli Blog Platformu]
-
-* **Açıklama:** [Portfolyonuzdaki Proje 2'nin amacı ve en önemli 3 özelliğini yazın.]
-* **Kullanılan Teknolojiler:** [Teknolojileri virgülle ayırarak yazın. Örn: Express.js, PostgreSQL, Node.js]
-* **Canlı Demo:** [Proje Linki]
-
-### 3. [PROJE ADI 3] - [Örn: Hava Durumu veya Harita Uygulaması]
-
-* **Açıklama:** [Portfolyonuzdaki Proje 3'ün amacı ve en önemli 3 özelliğini yazın.]
-* **Kullanılan Teknolojiler:** [Teknolojileri virgülle ayırarak yazın. Örn: Vanilla JavaScript, OpenWeatherMap API, CSS Grid]
-* **Canlı Demo:** [Proje Linki]
+### 3. **[Project Name 3]** – Weather / Map Application  
+- **Description:** A front-end web app that shows weather forecasts or map data using external APIs.  
+- **Technologies:** Vanilla JavaScript, OpenWeatherMap API (or Google Maps API), CSS Grid  
+- **Live Demo:** [Link]  
+- **Highlights:** Interactive UI, dynamic API fetching, responsive design
 
 ---
 
-## 📊 GitHub İstatistiklerim
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mustafagonen&show_icons=true&theme=buefy&hide_rank=false" alt="Mustafa Gönen GitHub İstatistikleri"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mustafagonen&show_icons=true&theme=buefy&hide_rank=false" alt="Mustafa Gönen GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafagonen&layout=compact&theme=buefy" alt="En Çok Kullanılan Diller"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafagonen&layout=compact&theme=buefy" alt="Top Languages">
 </div>
 
 ---
 
-### 💬 Benimle İletişime Geçin
+### 💬 Let’s Connect
 
-Yeni projeler, iş teklifleri veya teknoloji üzerine sohbetler için her zaman açığım!
+I’m always open to collaboration, new opportunities, or just a chat about tech. Feel free to reach out!
 
-* **LinkedIn:** [LinkedIn Profil Bağlantınız]
-* **E-posta:** [E-posta Adresiniz]
+- **LinkedIn:** [Your LinkedIn URL]  
+- **Email:** your.email@example.com  
 
 ---
 
-Bu şablonu kopyalayıp kendi bilgilerinizle doldurmak için GitHub deponuzu kullanabilirsiniz.
-
-**Bu bilgileri doldurduktan sonra, projelerinizin README dosyalarını nasıl daha detaylı ve profesyonel hale getireceğiniz konusunda yardımcı olmamı ister misiniz?**
